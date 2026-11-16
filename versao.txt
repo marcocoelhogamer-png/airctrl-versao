@@ -1,0 +1,5 @@
+# AirCtrl - versao mais recente (o plugin le este ficheiro para avisar quando ha versao nova)
+versao=0.9.0
+pt=Nova interface e o teu camiao em 3D
+en=New UI and your own truck in 3D
+fr=Nouvelle interface et ton camion en 3D
